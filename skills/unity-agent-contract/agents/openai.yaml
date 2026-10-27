@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Agent Contract"
+  short_description: "Choose a compact Unity agent workflow"
+  default_prompt: "Use $unity-agent-contract to explain the workflow options and ask which features I need for my Unity project."
